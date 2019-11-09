@@ -30,12 +30,18 @@
     $properties = array();
 
     for( $i=0 ; $i<count($data) ; $i++ ) {
-      if( $types[$i] == "lat" ) {
-        $geo_lat = $data[$i];
-      } else if ( $types[$i] == "lon" ) {
-        $geo_lon = $data[$i];
-      } else {
-        $properties = $properties + array($header[$i] => $data[$i]);
+      if( $data[$i] != "" ) {
+        if( $types[$i] == "lat" ) {
+          $geo_lat = $data[$i];
+        } else if ( $types[$i] == "lon" ) {
+          $geo_lon = $data[$i];
+        } else if ( $types[$i] == "URL" ) {
+          $properties = $properties + array($header[$i] => '<a href="'.$data[$i].'">'.$header[$i].'</a>');
+        } else if ( $types[$i] == "img" ) {
+          $properties = $properties + array($header[$i] => '<img src="'.$data[$i].'"></img>');
+        } else {
+          $properties = $properties + array($header[$i] => $data[$i]);
+        }
       }
     }
 
@@ -43,14 +49,15 @@
       'type' => 'Feature', 
       'geometry' => array(
         'type' => 'Point',
-        'coordinates' => [floatval($geo_lon), floatval($geo_lat)]
+//        'coordinates' => [floatval($geo_lon), floatval($geo_lat)]
+        'coordinates' => [$geo_lon, $geo_lat]
       ),
       'properties' => $properties
     );
     array_push($geojson['features'], $feature);
   }
 
-  fwrite($jsonfile, json_encode($geojson, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+  fwrite($jsonfile, json_encode($geojson, JSON_UNESCAPED_SLASHES | JSON_NUMERIC_CHECK | JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
   fclose($jsonfile);
   fclose($csvfile);
 ?>
