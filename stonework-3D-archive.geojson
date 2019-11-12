@@ -139,7 +139,7 @@
                 "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/%E7%9F%B3%E6%A9%8B%E4%BE%9B%E9%A4%8A%E5%A1%94%EF%BC%88%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E5%B2%B8%EF%BC%89.png\"/>",
                 "分類": "石橋供養塔",
                 "所在地": "東京都武蔵村山市岸",
-                "主銘文": "石橋供?塔",
+                "主銘文": "石橋供養塔",
                 "紀年銘": "天保十五甲辰年三月吉祥日",
                 "願主(施主)銘": "世話人 荒田平兵衛",
                 "元号": "天保",
@@ -274,7 +274,7 @@
             "properties": {
                 "タイトル": "庚申塔（鶏足寺）2",
                 "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔%EF%BC%88鶏足寺%EF%BC%892.stl\">3Dモデル</a>",
-                "サムネイル": "<img src=\"https://github.com/ShinodaKosuke/stonework-3D-archive/blob/master/thumb/庚申塔%EF%BC%88鶏足寺%EF%BC%892.png\r\n\"/>",
+                "サムネイル": "<img src=\"https://github.com/ShinodaKosuke/stonework-3D-archive/blob/master/thumb/庚申塔%EF%BC%88鶏足寺%EF%BC%892.png\n\"/>",
                 "分類": "庚申塔",
                 "所在地": "静岡県静岡市清水区茂野島",
                 "紀年銘": "延宝五丁巳",
