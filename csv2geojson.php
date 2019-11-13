@@ -38,7 +38,7 @@
         } else if ( $types[$i] == "URL" ) {
           $properties = $properties + array($header[$i] => '<a href="'.$data[$i].'">'.$header[$i].'</a>');
         } else if ( $types[$i] == "img" ) {
-          $properties = $properties + array($header[$i] => '<img src="'.$data[$i].'"/>');
+          $properties = $properties + array($header[$i] => '<img src="'.$data[$i].'" target="_blank"/>');
         } else {
           $properties = $properties + array($header[$i] => $data[$i]);
         }
