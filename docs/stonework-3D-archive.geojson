@@ -1,0 +1,411 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6957245,
+                    36.173342
+                ]
+            },
+            "properties": {
+                "タイトル": "十九夜塔（古河市新久田）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:十九夜塔（古河市新久田）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/十九夜塔（古河市新久田）.png\"/>",
+                "分類": "月待塔",
+                "所在地": "茨城県古河市新久田",
+                "主銘文": "十九夜",
+                "地名銘": "下總國葛飾郡新久田村",
+                "紀年銘": "天保十己亥歳十月吉日",
+                "願主(施主)銘": "女人講中",
+                "元号": "天保",
+                "造立年": 1839,
+                "主尊像": "如意輪観音",
+                "撮影日": "2019/9/1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.488894,
+                    35.515197
+                ]
+            },
+            "properties": {
+                "タイトル": "二十三夜塔（耕雲庵）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:二十三夜塔（耕雲庵）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/二十三夜塔（耕雲庵）.png\"/>",
+                "分類": "月待塔",
+                "所在地": "神奈川県横浜市緑区長津田町",
+                "主銘文": "二十三夜塔",
+                "地名銘": "長津田邑岡部谷戸",
+                "紀年銘": "維時嘉永元申孟秋日",
+                "元号": "嘉永",
+                "造立年": 1848,
+                "撮影日": "2019/10/24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.538944,
+                    35.509826
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（寺山杉山神社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（寺山杉山神社）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（寺山杉山神社）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "神奈川県横浜市緑区寺山町",
+                "主銘文": "奉造立青面金剛",
+                "地名銘": "寺山邑",
+                "紀年銘": "寛延二巳年",
+                "願主(施主)銘": "施主 寺山邑講中",
+                "元号": "寛延",
+                "造立年": 1749,
+                "主尊像": "青面金剛立像",
+                "撮影日": "2019/7/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.496694,
+                    35.499297
+                ]
+            },
+            "properties": {
+                "タイトル": "五神名地神塔（横浜市旭区）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:五神名地神塔（横浜市旭区）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/五神名地神塔（横浜市旭区）.png\"/>",
+                "分類": "地神塔",
+                "所在地": "神奈川県横浜市旭区上川井町",
+                "主銘文": "埴安姫神 倉稲魂神 大己貴神 天照太神 少彦名神",
+                "地名銘": "大貫谷",
+                "紀年銘": "文政十三庚寅歳在二月吉日",
+                "願主(施主)銘": "大貫谷構中",
+                "元号": "文政",
+                "造立年": 1830,
+                "撮影日": "2019/10/24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.582836,
+                    35.464583
+                ]
+            },
+            "properties": {
+                "タイトル": "刻像地神塔（横浜市保土ケ谷区）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:刻像地神塔（横浜市保土ケ谷区）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/刻像地神塔（横浜市保土ケ谷区）.png\"/>",
+                "分類": "地神塔",
+                "所在地": "神奈川県横浜市保土ケ谷区仏向町",
+                "主銘文": "齊上地神",
+                "紀年銘": "文化九年申八月吉辰",
+                "願主(施主)銘": "願主 北村惣左エ門 同久左エ門内",
+                "石工銘": "新町 石工八五郎",
+                "元号": "文化",
+                "造立年": 1812,
+                "主尊像": "堅牢地神立像",
+                "撮影日": "2019/9/19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.368419,
+                    35.764949
+                ]
+            },
+            "properties": {
+                "タイトル": "石橋供養塔（武蔵村山市岸）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:石橋供養塔（武蔵村山市岸）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/石橋供養塔（武蔵村山市岸）.png\"/>",
+                "分類": "石橋供養塔",
+                "所在地": "東京都武蔵村山市岸",
+                "主銘文": "石橋供養塔",
+                "紀年銘": "天保十五甲辰年三月吉祥日",
+                "願主(施主)銘": "世話人 荒田平兵衛",
+                "元号": "天保",
+                "造立年": 1844,
+                "撮影日": "2019/9/30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.367917,
+                    35.765165
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（須賀神社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（須賀神社）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（須賀神社）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "東京都武蔵村山市岸",
+                "主銘文": "庚申",
+                "地名銘": "北多摩郡岸村",
+                "紀年銘": "天保十五甲辰年三月吉祥日",
+                "願主(施主)銘": "講中",
+                "元号": "天保",
+                "造立年": 1844,
+                "撮影日": "2019/9/30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.540607,
+                    35.527208
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（十二神社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（十二神社）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（十二神社）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "神奈川県横浜市緑区北八朔町",
+                "主銘文": "庚申塚",
+                "種字": "ウーン",
+                "地名銘": "武州都築郡北八朔村",
+                "紀年銘": "文化三丙寅年三月吉日",
+                "願主(施主)銘": "武州都築郡北八朔村 講中",
+                "元号": "文化",
+                "造立年": 1806,
+                "撮影日": "2019/10/31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57871,
+                    35.543248
+                ]
+            },
+            "properties": {
+                "タイトル": "刻像地神塔（正覚寺）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:刻像地神塔（正覚寺）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/刻像地神塔（正覚寺）.png\"/>",
+                "分類": "地神塔",
+                "所在地": "神奈川県横浜市都筑区茅ケ崎東三丁目",
+                "地名銘": "下茅ケ崎村",
+                "紀年銘": "文化十三子八月吉日",
+                "願主(施主)銘": "下茅ケ崎村 講中",
+                "元号": "文化",
+                "造立年": 1816,
+                "主尊像": "堅牢地神",
+                "撮影日": "2019/11/3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4383603,
+                    35.12771406
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（八雲神社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（八雲神社）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（八雲神社）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "静岡県静岡市清水区西里",
+                "紀年銘": "明和七庚寅十一月",
+                "元号": "明和",
+                "造立年": 1770,
+                "主尊像": "青面金剛立像(一面六臂)",
+                "その他刻像": "座三猿(言？見) 邪鬼(1)",
+                "撮影日": "2019/8/31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.463773,
+                    35.105498
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（鶏足寺）1",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（鶏足寺）1.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（鶏足寺）1.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "静岡県静岡市清水区茂野島",
+                "紀年銘": "寛政八丙辰歳七月十七日",
+                "元号": "寛政",
+                "造立年": 1796,
+                "主尊像": "青面金剛立像(一面六臂)",
+                "その他刻像": "座三猿(聞見言) 鳥(2) 邪鬼(1) ショケラ(1)",
+                "撮影日": "2019/8/31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.463773,
+                    35.105498
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（鶏足寺）2",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（鶏足寺）2.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（鶏足寺）2.png\n\"/>",
+                "分類": "庚申塔",
+                "所在地": "静岡県静岡市清水区茂野島",
+                "紀年銘": "延宝五丁巳",
+                "元号": "延宝",
+                "造立年": 1677,
+                "その他刻像": "立二猿(聞見)",
+                "撮影日": "2019/8/31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.43651,
+                    35.117957
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（石上峠）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（石上峠）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（石上峠）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "静岡県静岡市清水区西里",
+                "地名銘": "下黒川村",
+                "紀年銘": "明和第八辛卯十一月伸供養",
+                "願主(施主)銘": "願主十二人為菩提",
+                "元号": "明和",
+                "造立年": 1771,
+                "主尊像": "青面金剛立像(一面六臂)",
+                "その他刻像": "座三猿(言聞見) 鳥(2) 邪鬼(1) 童子(2)",
+                "撮影日": "2019/9/1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.478281,
+                    35.110753
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（静岡市清水区和田島）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（静岡市清水区和田島）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（静岡市清水区和田島）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "静岡県静岡市清水区和田島",
+                "主尊像": "青面金剛立像(一面六臂)",
+                "その他刻像": "座三猿(言？見) 鳥(2) 邪鬼(1)",
+                "撮影日": "2019/9/1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.489342,
+                    35.108741
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（浅間神社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（浅間神社）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（浅間神社）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "静岡県静岡市清水区清地",
+                "紀年銘": "宝暦十一龍舎辛巳夷則上澣",
+                "元号": "宝暦",
+                "造立年": 1761,
+                "主尊像": "青面金剛立像(一面六臂)",
+                "その他刻像": "座三猿(言聞見) 鳥(2) 邪鬼(1)",
+                "撮影日": "2019/9/1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4717519,
+                    35.13374861
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（静岡市清水区中河内）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（静岡市清水区中河内）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/庚申塔（静岡市清水区中河内）.png\"/>",
+                "分類": "庚申塔",
+                "所在地": "静岡県静岡市清水区中河内",
+                "紀年銘": "寛政十二伸春吉日",
+                "元号": "寛政",
+                "造立年": 1800,
+                "主尊像": "青面金剛立像(一面六臂)",
+                "その他刻像": "邪鬼(1) ショケラ(1) 童子(2) 夜叉(2)",
+                "撮影日": "2019/9/7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.356916,
+                    35.616194
+                ]
+            },
+            "properties": {
+                "タイトル": "八王子道道標（八王子市鑓水）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:八王子道道標（八王子市鑓水）.stl\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/八王子道道標（八王子市鑓水）.png\"/>",
+                "分類": "道標",
+                "所在地": "東京都八王子市鑓水",
+                "地名銘": "武州多摩郡鑓水村",
+                "紀年銘": "慶応元乙丑仲秋吉日",
+                "道標銘": "此方 八王子, 此方 はら町田 神奈川 ふじさわ, 此方 はし本 津久井 大山 ",
+                "元号": "慶応",
+                "造立年": 1865,
+                "撮影日": "2019/11/1"
+            }
+        }
+    ]
+}
