@@ -57,6 +57,7 @@
     array_push($geojson['features'], $feature);
   }
 
+  ini_set('serialize_precision', '-1');
   fwrite($jsonfile, json_encode($geojson, JSON_UNESCAPED_SLASHES | JSON_NUMERIC_CHECK | JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
   fclose($jsonfile);
   fclose($csvfile);
