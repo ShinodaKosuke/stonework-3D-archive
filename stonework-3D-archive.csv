@@ -1,4 +1,4 @@
-"タイトル","3Dモデル","サムネイル","分類","所在地","緯度","経度","主銘文","願文","種字","地名銘","紀年銘","道標銘","願主(施主)銘","石工銘","元号","造立年","主尊像","その他刻像","撮影日"
+"タイトル","３Ｄモデル","サムネイル","分類","所在地","緯度","経度","主銘文","願文","種字","地名銘","紀年銘","道標銘","願主(施主)銘","石工銘","元号","造立年","主尊像","その他刻像","撮影日"
 "string","URL","img","string","string","lat","lon","string","string","string","string","string","string","string","string","string","int","string","string","date"
 "十九夜塔（古河市新久田）","https://commons.wikimedia.org/wiki/File:十九夜塔（古河市新久田）.stl","https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/十九夜塔（古河市新久田）.png","月待塔","茨城県古河市新久田",36.173342,139.6957245,"十九夜",,,"下總國葛飾郡新久田村","天保十己亥歳十月吉日",,"女人講中",,"天保",1839,"如意輪観音",,"2019/9/1"
 "二十三夜塔（耕雲庵）","https://commons.wikimedia.org/wiki/File:二十三夜塔（耕雲庵）.stl","https://raw.githubusercontent.com/ShinodaKosuke/stonework-3D-archive/master/thumb/二十三夜塔（耕雲庵）.png","月待塔","神奈川県横浜市緑区長津田町",35.515197,139.488894,"二十三夜塔",,,"長津田邑岡部谷戸","維時嘉永元申孟秋日",,,,"嘉永",1848,,"月:日","2019/10/24"
