@@ -5,4 +5,9 @@
   <priority>1.0</priority>
   <changefreq>daily</changefreq>
 </url>
+<url>
+  <loc>https://stonework-3d-archive.github.io/map/</loc>
+  <priority>1.0</priority>
+  <changefreq>daily</changefreq>
+</url>
 </urlset>
