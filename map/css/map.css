@@ -1,0 +1,52 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+#mapdiv {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+#titleD {
+  position: absolute;
+  top: 1.1em;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  z-index: 1000;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
+#titleS {
+  font-size: large;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #AAA;
+  background-color: #FFF;
+  padding: 0.4em 0.8em 0.4em 0.8em;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+}
+.modal-body {
+  font-size: 13px;
+}
+.remark {
+  display: inline;
+  font-size: 11px;
+}
+.leaflet-popup-content-wrapper {
+  background: rgba(255, 255, 255, 0.8);
+}
+.leaflet-popup-tip {
+  background: rgba(255, 255, 255, 0.8);
+}
+.leaflet-popup-content {
+  margin: 10px 15px;
+  font-size: 13px;
+  white-space: nowrap;
+  width: auto !important;
+}
