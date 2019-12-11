@@ -50,3 +50,8 @@ html, body {
   white-space: nowrap;
   width: auto !important;
 }
+.thumbnail {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
