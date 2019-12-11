@@ -38,20 +38,18 @@
       pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {
         }).bindPopup(
-          '<table border>' +
-          '<tr><td>タイトル</td><td>' + feature.properties.タイトル + '</td></tr>' +
-          '<tr><td>モデル</td><td>' + feature.properties.モデル + '</td></tr>' +
-          '<tr><td>サムネイル</td><td>' + feature.properties.サムネイル + '</td></tr>' +
-          '<tr><td>分類</td><td>' + feature.properties.分類 + '</td></tr>' +
-          '<tr><td>所在地</td><td>' + feature.properties.所在地 + '</td></tr>' +
-          '<tr><td>撮影日</td><td>' + feature.properties.撮影日 + '</td></tr>' +
-          '</table>'
+          function() {
+            tr = '<table border>';
+            Object.keys(feature.properties).forEach( function(k){
+              tr = tr + '<tr><td>' + k + '</td><td>' + feature.properties[k] + '</td></tr>';
+            });
+            return tr + '</table>';
+          }
         );
       }
     });
     markerclusters.addLayer(modelLayer);
     map.fitBounds(markerclusters.getBounds());
-
   });
 
   L.easyButton('fa fa-info fa-lg',
