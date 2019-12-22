@@ -581,6 +581,55 @@
                 "その他刻像": "月",
                 "撮影日": "2019/12/6"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.732091,
+                    36.257658
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔（野木町友沼）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（野木町友沼）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/庚申塔（野木町友沼）.stl/320px-庚申塔（野木町友沼）.stl.png\" class=\"thumbnail\" />",
+                "分類": "庚申塔",
+                "所在地": "栃木県下都賀郡野木町大字友沼",
+                "地名銘": "下野国都賀郡 本新田村",
+                "紀年銘": "正徳三癸巳天 十月吉日",
+                "元号": "正徳",
+                "造立年": 1713,
+                "主尊像": "青面金剛立像(一面六臂)",
+                "その他刻像": "座三猿(言聞見) 鳥(2) 邪鬼(1) 日:月",
+                "撮影日": "2019/12/21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.732336,
+                    36.257429
+                ]
+            },
+            "properties": {
+                "タイトル": "十九夜塔（野木町友沼）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:十九夜塔（野木町友沼）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/十九夜塔（野木町友沼）.stl/320px-十九夜塔（野木町友沼）.stl.png\" class=\"thumbnail\" />",
+                "分類": "月待塔",
+                "所在地": "栃木県下都賀郡野木町大字友沼",
+                "主銘文": "十九夜供養",
+                "地名銘": "本新田",
+                "紀年銘": "元文二丁巳天十一月十九日",
+                "願主(施主)銘": "講中",
+                "元号": "元文",
+                "造立年": 1737,
+                "主尊像": "如意輪観音",
+                "撮影日": "2019/12/21"
+            }
         }
     ]
 }
