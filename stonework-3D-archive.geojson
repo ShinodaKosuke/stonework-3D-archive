@@ -654,6 +654,28 @@
                 "造立年": 1788,
                 "撮影日": "2019/12/12"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6141398791,
+                    35.58483699
+                ]
+            },
+            "properties": {
+                "タイトル": "地神塔（川崎市高津区新作二丁目）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:地神塔（川崎市高津区新作二丁目）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/地神塔（川崎市高津区新作二丁目）.stl/320px-地神塔（川崎市高津区新作二丁目）.stl.png\" class=\"thumbnail\" />",
+                "分類": "地神塔",
+                "所在地": "神奈川県川崎市高津区新作二丁目",
+                "主銘文": "地神塔",
+                "紀年銘": "大正十年三月建之",
+                "元号": "大正",
+                "造立年": 1921,
+                "撮影日": "2019/12/20"
+            }
         }
     ]
 }
