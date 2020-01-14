@@ -249,6 +249,7 @@
                 "タイトル": "庚申塔（八雲神社）",
                 "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（八雲神社）.stl\" target=\"_blank\">3Dモデル</a>",
                 "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/庚申塔（八雲神社）.stl/320px-庚申塔（八雲神社）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q81486396\" target=\"_blank\">構造化データ</a>",
                 "分類": "庚申塔",
                 "所在地": "静岡県静岡市清水区西里",
                 "紀年銘": "明和七庚寅十一月",
@@ -794,6 +795,31 @@
                 "造立年": 1813,
                 "主尊像": "千手観音立像",
                 "撮影日": "2020/1/3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.540897,
+                    35.362907
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔道標（横浜市栄区小菅ケ谷）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔道標（横浜市栄区小菅ケ谷）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/庚申塔道標（横浜市栄区小菅ケ谷）.stl/320px-庚申塔道標（横浜市栄区小菅ケ谷）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q81947026\" target=\"_blank\">構造化データ</a>",
+                "分類": "庚申塔",
+                "所在地": "神奈川県横浜市栄区小菅ケ谷一丁目",
+                "主銘文": "奉造立庚申供養",
+                "紀年銘": "元禄四辛未天八月七日",
+                "道標銘": "従是とつ加道, 従是ぐミやうじ道",
+                "願主(施主)銘": "同行八人",
+                "元号": "元禄",
+                "造立年": 1691,
+                "撮影日": "2020/1/13"
             }
         }
     ]
