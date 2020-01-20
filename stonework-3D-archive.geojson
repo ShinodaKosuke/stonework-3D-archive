@@ -832,6 +832,32 @@
                 "造立年": 1691,
                 "撮影日": "2020/1/13"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.400118,
+                    35.484632
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔道標（座間市入谷東）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔道標（座間市入谷東）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/庚申塔道標（座間市入谷東）.stl/320px-庚申塔道標（座間市入谷東）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q83267754\" target=\"_blank\">構造化データ</a>",
+                "分類": "庚申塔, 道標",
+                "所在地": "神奈川県座間市入谷東一丁目",
+                "主銘文": "庚申塔",
+                "地名銘": "星野谷",
+                "紀年銘": "明治八乙亥年２□吉日",
+                "道標銘": "右 東京 横濱 下り あつぎ 大山 道, 左 原町田 きそ ふちう みち",
+                "願主(施主)銘": "講中",
+                "元号": "明治",
+                "造立年": 1875,
+                "撮影日": "2020/1/20"
+            }
         }
     ]
 }
