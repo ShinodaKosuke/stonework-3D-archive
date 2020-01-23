@@ -858,6 +858,32 @@
                 "造立年": 1875,
                 "撮影日": "2020/1/20"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.510129,
+                    35.418966
+                ]
+            },
+            "properties": {
+                "タイトル": "庚申塔道標（御霊神社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔道標（御霊神社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/庚申塔道標（御霊神社）.stl/320px-庚申塔道標（御霊神社）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q83460278\" target=\"_blank\">構造化データ</a>",
+                "分類": "庚申塔, 道標",
+                "所在地": "神奈川県横浜市泉区中田北三丁目",
+                "主銘文": "庚申塔",
+                "地名銘": "中田村",
+                "紀年銘": "嘉永六癸丑二月吉日",
+                "道標銘": "右とつか道, 西 大山道 東 かしを道",
+                "願主(施主)銘": "根下講中",
+                "元号": "嘉永",
+                "造立年": 1853,
+                "撮影日": "2020/1/22"
+            }
         }
     ]
 }
