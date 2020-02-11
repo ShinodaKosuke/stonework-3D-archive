@@ -1110,6 +1110,31 @@
                 "造立年": 1980,
                 "撮影日": "2019/12/27"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.285648349673,
+                    33.2074051257223
+                ]
+            },
+            "properties": {
+                "タイトル": "日支事変記念碑（佐賀県佐賀市東与賀町）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:日支事変記念碑（佐賀県佐賀市東与賀町大字田中）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/日支事変記念碑（佐賀県佐賀市東与賀町大字田中）.stl/320px-日支事変記念碑（佐賀県佐賀市東与賀町大字田中）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q84786190\" target=\"_blank\">構造化データ</a>",
+                "分類": "日支事変記念碑",
+                "所在地": "佐賀県佐賀市東与賀町大字田中",
+                "主銘文": "日支事変記念",
+                "紀年銘": "昭和十三年七月",
+                "願主(施主)銘": "父兄会",
+                "元号": "昭和",
+                "造立年": 1938,
+                "撮影日": "2020/2/2",
+                "スケール": "無"
+            }
         }
     ]
 }
