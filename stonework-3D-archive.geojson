@@ -1135,6 +1135,71 @@
                 "撮影日": "2020/2/2",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.277442717925,
+                    33.2340189674869
+                ]
+            },
+            "properties": {
+                "タイトル": "肥前狛犬1（八龍社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:肥前狛犬1（八龍社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/肥前狛犬1（八龍社）.stl/320px-肥前狛犬1（八龍社）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q84893847\" target=\"_blank\">構造化データ</a>",
+                "分類": "狛犬",
+                "所在地": "佐賀県佐賀市西与賀町大字厘外",
+                "その他銘文": "奉献",
+                "撮影日": "2020/2/2",
+                "スケール": "有"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.277442717925,
+                    33.2340189674869
+                ]
+            },
+            "properties": {
+                "タイトル": "肥前狛犬2（八龍社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:肥前狛犬2（八龍社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/肥前狛犬2（八龍社）.stl/320px-肥前狛犬2（八龍社）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q84894136\" target=\"_blank\">構造化データ</a>",
+                "分類": "狛犬",
+                "所在地": "佐賀県佐賀市西与賀町大字厘外",
+                "その他銘文": "奉献",
+                "撮影日": "2020/2/2",
+                "スケール": "有"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.292064,
+                    33.242092
+                ]
+            },
+            "properties": {
+                "タイトル": "十五縄手橋柱（佐賀市本庄町）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:十五縄手橋柱（佐賀市本庄町）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/十五縄手橋柱（佐賀市本庄町）.stl/320px-十五縄手橋柱（佐賀市本庄町）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q84886820\" target=\"_blank\">構造化データ</a>",
+                "分類": "橋柱",
+                "所在地": "佐賀県佐賀市本庄町大字本庄",
+                "主銘文": "十五縄手橋",
+                "元号": "大正",
+                "造立年": 1923,
+                "撮影日": "2020/2/1",
+                "スケール": "無"
+            }
         }
     ]
 }
