@@ -1019,7 +1019,7 @@
             },
             "properties": {
                 "タイトル": "庚申塔（神奈川県横浜市戸塚区川上町・熊野神社）",
-                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（神奈川県横浜市戸塚区川上町・熊野神社）.stl#/media/File:庚申塔（神奈川県横浜市戸塚区川上町・熊野神社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:庚申塔（神奈川県横浜市戸塚区川上町・熊野神社）.stl\" target=\"_blank\">3Dモデル</a>",
                 "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/庚申塔（神奈川県横浜市戸塚区川上町・熊野神社）.stl/320px-庚申塔（神奈川県横浜市戸塚区川上町・熊野神社）.stl.png\" class=\"thumbnail\" />",
                 "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q84340727\" target=\"_blank\">構造化データ</a>",
                 "分類": "庚申塔",
@@ -1095,7 +1095,7 @@
             },
             "properties": {
                 "タイトル": "猿田彦大神塔（浅間神社）",
-                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:猿田彦大神塔（浅間神社）.stl#/media/File:猿田彦大神塔（浅間神社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:猿田彦大神塔（浅間神社）.stl\" target=\"_blank\">3Dモデル</a>",
                 "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/猿田彦大神塔（浅間神社）.stl/320px-猿田彦大神塔（浅間神社）.stl.png\" class=\"thumbnail\" />",
                 "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q84332480\" target=\"_blank\">構造化データ</a>",
                 "分類": "猿田彦大神塔",
@@ -1329,6 +1329,31 @@
                 "元号": "文久",
                 "造立年": 1861,
                 "撮影日": "2020/02/29",
+                "スケール": "無"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.546995,
+                    35.499005
+                ]
+            },
+            "properties": {
+                "タイトル": "馬頭観音（横浜市旭区白根町）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:馬頭観音（横浜市旭区白根町）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/馬頭観音（横浜市旭区白根町）.stl/320px-馬頭観音（横浜市旭区白根町）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q87423645\" target=\"_blank\">構造化データ</a>",
+                "分類": "馬頭観音",
+                "所在地": "神奈川県横浜市旭区白根町",
+                "主銘文": "馬頭観世音",
+                "紀年銘": "明治十三年七月廿五日",
+                "願主(施主)銘": "施主 相原直道",
+                "元号": "明治",
+                "造立年": 1880,
+                "撮影日": "2020/3/9",
                 "スケール": "無"
             }
         }
