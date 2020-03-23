@@ -1384,6 +1384,31 @@
                 "撮影日": "2020/2/21",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.561691,
+                    35.553093
+                ]
+            },
+            "properties": {
+                "タイトル": "地神塔（横浜市青葉区荏田町）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:地神塔（横浜市青葉区荏田町）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/地神塔（横浜市青葉区荏田町）.stl/320px-地神塔（横浜市青葉区荏田町）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q88328048\" target=\"_blank\">構造化データ</a>",
+                "分類": "地神塔",
+                "所在地": "神奈川県横浜市青葉区荏田町",
+                "主銘文": "地神尊",
+                "地名銘": "柚木谷",
+                "紀年銘": "明治廿九年一月吉日",
+                "元号": "明治",
+                "造立年": 1896,
+                "撮影日": "2020/2/21",
+                "スケール": "無"
+            }
         }
     ]
 }
