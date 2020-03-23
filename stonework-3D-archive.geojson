@@ -1356,6 +1356,34 @@
                 "撮影日": "2020/3/9",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57492,
+                    35.554044
+                ]
+            },
+            "properties": {
+                "タイトル": "疱瘡神塔（慈眼寺）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:疱瘡神塔（慈眼寺）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/疱瘡神塔（慈眼寺）.stl/320px-疱瘡神塔（慈眼寺）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q88325579\" target=\"_blank\">構造化データ</a>",
+                "分類": "疱瘡神塔",
+                "所在地": "神奈川県横浜市都筑区中川",
+                "主銘文": "疱瘡神",
+                "願文": "大願成辨 如意吉祥攸",
+                "種字": "バイ",
+                "紀年銘": "寛政七乙卯年四月吉日",
+                "願主(施主)銘": "願主 敬白",
+                "元号": "寛政",
+                "造立年": 1795,
+                "主尊像": "薬師如来坐像(2)",
+                "撮影日": "2020/2/21",
+                "スケール": "無"
+            }
         }
     ]
 }
