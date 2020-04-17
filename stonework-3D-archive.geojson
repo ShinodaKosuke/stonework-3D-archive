@@ -1487,6 +1487,32 @@
                 "撮影日": "2020/4/10",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.534361,
+                    35.491889
+                ]
+            },
+            "properties": {
+                "タイトル": "念仏地蔵（横浜市旭区上白根町）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:念仏地蔵（横浜市旭区上白根町）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/念仏地蔵（横浜市旭区上白根町）.stl/320px-念仏地蔵（横浜市旭区上白根町）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q90858440\" target=\"_blank\">構造化データ</a>",
+                "分類": "念仏塔",
+                "所在地": "神奈川県横浜市旭区上白根町",
+                "主銘文": "為念仏供養二世安楽也",
+                "種字": "カ",
+                "紀年銘": "元禄七甲戌霜月廿八日",
+                "元号": "元禄",
+                "造立年": 1694,
+                "主尊像": "地蔵菩薩立像",
+                "撮影日": "2020/4/17",
+                "スケール": "無"
+            }
         }
     ]
 }
