@@ -1565,6 +1565,57 @@
                 "撮影日": "2020/5/2",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.553141,
+                    35.472993
+                ]
+            },
+            "properties": {
+                "タイトル": "地神塔（横浜市旭区鶴ヶ峰）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:地神塔（横浜市旭区鶴ヶ峰）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/地神塔（横浜市旭区鶴ヶ峰）.stl/320px-地神塔（横浜市旭区鶴ヶ峰）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q93910517\" target=\"_blank\">構造化データ</a>",
+                "分類": "地神塔",
+                "所在地": "神奈川県横浜市旭区鶴ヶ峰",
+                "主銘文": "堅牢地神",
+                "紀年銘": "天明六丙午年 八月吉日",
+                "道標銘": "右 八王子 大山 道, 左 戸塚道",
+                "願主(施主)銘": "川嶋 上村講中",
+                "元号": "天明",
+                "造立年": 1786,
+                "撮影日": "2020/5/9",
+                "スケール": "無"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.553785,
+                    35.467764
+                ]
+            },
+            "properties": {
+                "タイトル": "聖徳太子塔（三反田稲荷社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:聖徳太子塔（三反田稲荷社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/聖徳太子塔（三反田稲荷社）.stl/320px-聖徳太子塔（三反田稲荷社）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q93913008\" target=\"_blank\">構造化データ</a>",
+                "分類": "聖徳太子塔",
+                "所在地": "神奈川県横浜市旭区三反田町",
+                "紀年銘": "文化五戊辰十一月吉日",
+                "願主(施主)銘": "川嶋村 願主 平本喜左衛門",
+                "元号": "文化",
+                "造立年": 1808,
+                "主尊像": "聖徳太子像",
+                "撮影日": "2020/5/9",
+                "スケール": "無"
+            }
         }
     ]
 }
