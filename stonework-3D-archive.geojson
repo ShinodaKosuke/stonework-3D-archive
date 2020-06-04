@@ -1616,6 +1616,32 @@
                 "撮影日": "2020/5/9",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.49101,
+                    35.522377
+                ]
+            },
+            "properties": {
+                "タイトル": "御嶽塔（天王社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:御嶽塔（天王社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/御嶽塔（天王社）.stl/320px-御嶽塔（天王社）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q96043190\" target=\"_blank\">構造化データ</a>",
+                "分類": "御嶽塔",
+                "所在地": "神奈川県横浜市緑区長津田町",
+                "主銘文": "八海山大神 御嶽大神 三笠山大神",
+                "地名銘": "長津田 小川",
+                "紀年銘": "明治四十未年三月八日",
+                "願主(施主)銘": "長津田 久保田与三郎 中島太郎吉 岡部弥吉 小泉染吉, 小川 中村枩次郎 久保田近蔵",
+                "元号": "明治",
+                "造立年": 1907,
+                "撮影日": "2020/5/29",
+                "スケール": "無"
+            }
         }
     ]
 }
