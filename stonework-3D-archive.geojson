@@ -1722,6 +1722,30 @@
                 "撮影日": "2020/5/31",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.518128,
+                    35.530827
+                ]
+            },
+            "properties": {
+                "タイトル": "小山西八朔堰碑",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:小山西八朔堰碑.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/小山西八朔堰碑.stl/320px-小山西八朔堰碑.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q96572839\" target=\"_blank\">構造化データ</a>",
+                "分類": "記念碑",
+                "所在地": "神奈川県横浜市青葉区さつきが丘",
+                "主銘文": "小山西八朔堰碑",
+                "紀年銘": "昭和三年四月",
+                "元号": "昭和",
+                "造立年": 1928,
+                "撮影日": "2020/6/21",
+                "スケール": "無"
+            }
         }
     ]
 }
