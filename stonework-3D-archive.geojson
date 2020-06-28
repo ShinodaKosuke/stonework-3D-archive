@@ -1746,6 +1746,56 @@
                 "撮影日": "2020/6/21",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.491266,
+                    35.546932
+                ]
+            },
+            "properties": {
+                "タイトル": "道祖神（横浜市青葉区恩田町井戸久保）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:道祖神（横浜市青葉区恩田町井戸久保）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/道祖神（横浜市青葉区恩田町井戸久保）.stl/320px-道祖神（横浜市青葉区恩田町井戸久保）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q96694309\" target=\"_blank\">構造化データ</a>",
+                "分類": "道祖神",
+                "所在地": "神奈川県横浜市青葉区恩田町",
+                "主銘文": "道祖神",
+                "地名銘": "井戸久保",
+                "紀年銘": "昭和九年一月吉日",
+                "願主(施主)銘": "井戸久保講中",
+                "元号": "昭和",
+                "造立年": 1934,
+                "撮影日": "2020/6/27",
+                "スケール": "無"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.491266,
+                    35.546932
+                ]
+            },
+            "properties": {
+                "タイトル": "双体道祖神（横浜市青葉区恩田町井戸久保）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:双体道祖神（横浜市青葉区恩田町井戸久保）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/双体道祖神（横浜市青葉区恩田町井戸久保）.stl/320px-双体道祖神（横浜市青葉区恩田町井戸久保）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q96694315\" target=\"_blank\">構造化データ</a>",
+                "分類": "道祖神",
+                "所在地": "神奈川県横浜市青葉区恩田町",
+                "地名銘": "上恩田村",
+                "紀年銘": "卯正月吉日",
+                "願主(施主)銘": "上恩田村中",
+                "主尊像": "双体道祖神",
+                "撮影日": "2020/6/27",
+                "スケール": "無"
+            }
         }
     ]
 }
