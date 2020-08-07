@@ -1796,6 +1796,31 @@
                 "撮影日": "2020/6/27",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.592213,
+                    35.511618
+                ]
+            },
+            "properties": {
+                "タイトル": "富士講碑（小机富士）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:富士講碑（小机富士）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/富士講碑（小机富士）.stl/320px-富士講碑（小机富士）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q98138783\" target=\"_blank\">構造化データ</a>",
+                "分類": "富士講碑",
+                "所在地": "神奈川県横浜市港北区小机町",
+                "主銘文": "冨士仙元大菩薩",
+                "紀年銘": "文久元酉年五月",
+                "願主(施主)銘": "青 講中",
+                "元号": "文久",
+                "造立年": 1861,
+                "撮影日": "2020-08-07",
+                "スケール": "無"
+            }
         }
     ]
 }
