@@ -1903,6 +1903,31 @@
                 "撮影日": "2020/8/16",
                 "スケール": "無"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.546481,
+                    35.528774
+                ]
+            },
+            "properties": {
+                "タイトル": "二十三夜塔（川和八坂神社）",
+                "3Dモデル": "<a href=\"https://commons.wikimedia.org/wiki/File:二十三夜塔（川和八坂神社）.stl\" target=\"_blank\">3Dモデル</a>",
+                "サムネイル": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/二十三夜塔（川和八坂神社）.stl/320px-二十三夜塔（川和八坂神社）.stl.png\" class=\"thumbnail\" />",
+                "構造化データ": "<a href=\"https://www.wikidata.org/wiki/Q98564294\" target=\"_blank\">構造化データ</a>",
+                "分類": "月待塔",
+                "所在地": "神奈川県横浜市都筑区川和町",
+                "主銘文": "二十三夜塔",
+                "紀年銘": "明治四十一戊申年四月吉日建之",
+                "願主(施主)銘": "宿講中",
+                "元号": "明治",
+                "造立年": 1908,
+                "撮影日": "2020/8/22",
+                "スケール": "無"
+            }
         }
     ]
 }
